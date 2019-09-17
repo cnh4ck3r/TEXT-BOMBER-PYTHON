@@ -1,4 +1,4 @@
-# TEXT BOMBER 
+# TEXT-BOMBER-PYTHON
 Very simple sms bomber written in python.
   
 ### CONFIG
